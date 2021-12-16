@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: deepskyblue;
+    font-family: sans-serif;
+}
+
+p {
+    padding-right: 1%;
+}
+
+img {
+    border-radius: 3px;
+}
+
+h1 {
+    padding: 1%;
+    text-align: center;
+}
+
+h3 {
+    padding: 2%;
+    text-align: center;
+}
